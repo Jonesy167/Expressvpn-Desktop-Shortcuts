@@ -1,5 +1,5 @@
 [Desktop Entry]
-Name=express vpn stop
+Name=expressvpn stop
 Comment=stop express vpn, bring wlp4s0 back up
 Exec=/home/username/Scripts/stop_expressvpn.sh
 Icon=/var/lib/expressvpn/icons/expressvpn.png
