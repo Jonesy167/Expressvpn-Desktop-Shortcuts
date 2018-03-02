@@ -17,3 +17,4 @@ echo ""
 echo "double click on expressvpn startup to start vpn, expressvpn disconnect to disconnect and expressvpn status to quickly see status of VPN"
 echo ""
 echo "\**A\uthor JONESY167\*\*"
+exit 0
