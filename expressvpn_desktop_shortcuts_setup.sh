@@ -5,7 +5,7 @@ mkdir /home/$user/Scripts
 mv *.sh /home/$user/Scripts
 sudo chmod 755 /home/$user/Scripts/* #make scripts executable
 sudo chown root:root *.png
-sudo mv *.png /var/lib/expressvpn
+sudo mv *.png /var/lib/expressvpn/icons
 mv *desktop /home/$user/Desktop
 chmod 755 /home/$user/Desktop/*expressvpn*
 echo ""
