@@ -1,8 +1,0 @@
-[Desktop Entry]
-Name=expressvpn connect
-Comment=start expressvpn
-Exec=/home/username/Scripts/start_expressvpn.sh
-Icon=/var/lib/expressvpn/icons/expressvpn.png
-Terminal=true
-Type=Application
-Name[en_GB]=start expressvpn
