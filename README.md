@@ -7,7 +7,7 @@ Adds desktop shortcuts to connect, disconnect and check status of Expressvpn on 
   
   -expressvpn connect smart # uses expressvpn's smart conenct so should connect to server with lowest latency
   
-  -expressvpn disconnect # does what it says
+  -expressvpn disconnect
   
   -expressvpn status # produces a popup showing expressvpn status, closes automatically after 3 seconds
 
