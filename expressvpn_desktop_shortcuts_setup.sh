@@ -7,6 +7,7 @@ sudo chmod 755 /home/$user/Scripts/* #make scripts executable
 sudo chown root:root *.png
 sudo mv *.png /var/lib/expressvpn
 mv *desktop /home/$user/Desktop
+chmod 755 /home/$user/Desktop/*expressvpn*
 echo ""
 echo ""
 echo "setup complete, double click on expressvpn startup to start vpn, expressvpn disconnect to disconnect and expressvpn status to quickly see status of VPN"
