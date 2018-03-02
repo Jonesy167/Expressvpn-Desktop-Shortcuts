@@ -16,4 +16,4 @@ Adds desktop shortcuts to connect, disconnect and check status of Expressvpn on 
 
 # expressvpn desktop icons will replace the default Ubuntu icons, after first run of each desktop shortcut
 
-*****N.B this is not tested, supported or associated to Expressvpn in any way, Expressvpn do however have my full consent to use any of this code for free for an unlimed period - providing they reference Jonesy167 in any documentation and readme files. 
+*****N.B this is not tested, supported or associated to expressvpn in any way, expressvpn do however have my full consent to use any of this code for free for an unlimed period - providing they reference Jonesy167 in any associated documentation and readme files. 
