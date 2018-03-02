@@ -1,5 +1,5 @@
 user="$(whoami)"
-#unzip expressvpn_desktop_shortcuts.zip
+unzip expressvpn_desktop_shortcuts.zip
 sed -i "s/username/${user}/g" *.desktop #ensure .desktop files are pointing at bash script by replacing string 'username' with $user variable
 mkdir /home/$user/Scripts
 mv *.sh /home/$user/Scripts
