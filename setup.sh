@@ -10,5 +10,11 @@ mv *desktop /home/$user/Desktop
 chmod 755 /home/$user/Desktop/*expressvpn*
 echo ""
 echo ""
-echo "setup complete, double click on expressvpn startup to start vpn, expressvpn disconnect to disconnect and expressvpn status to quickly see status of VPN"
+echo "setup complete
 echo ""
+echo "after first run the expressvpn icon will replace the default Ubuntu icon on the desktop"
+echo ""
+echo "double click on expressvpn startup to start vpn, expressvpn disconnect to disconnect and expressvpn status to quickly see status of VPN"
+echo ""
+echo "Author JONESY167**"
+
