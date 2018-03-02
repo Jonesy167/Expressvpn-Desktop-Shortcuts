@@ -1,5 +1,5 @@
 [Desktop Entry]
-Name=expressvpn status
+Name=status expressvpn 
 Comment=opens a window showing expressvpn status for 3 seconds
 Exec=/home/username/Scripts/expressvpn_status.sh
 Icon=/var/lib/expressvpn/icons/expressvpn.png
