@@ -1,0 +1,8 @@
+[Desktop Entry]
+Name=expressvpn status
+Comment=opens a window showing expressvpn status for 3 seconds
+Exec=/home/username/Scripts/expressvpn_status.sh
+Icon=/var/lib/expressvpn/icons/expressvpn.png
+Terminal=true
+Type=Application
+Name[en_GB]=expressvpn status
