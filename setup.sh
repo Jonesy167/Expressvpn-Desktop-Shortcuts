@@ -10,7 +10,7 @@ mv *desktop /home/$user/Desktop
 chmod 755 /home/$user/Desktop/*expressvpn*
 echo ""
 echo ""
-echo "setup complete
+echo "setup complete"
 echo ""
 echo "after first run the expressvpn icon will replace the default Ubuntu icon on the desktop"
 echo ""
