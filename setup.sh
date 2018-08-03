@@ -1,4 +1,8 @@
+#!/usr/bin/env bash
+
 ##############by JONESY167 https://github.com/Jonesy167###############################
+
+
 user="$(whoami)"
 unzip expressvpn_desktop_shortcuts.zip
 sed -i "s/username/${user}/g" *.desktop #ensure .desktop files are pointing at bash script by replacing string 'username' with $user variable
