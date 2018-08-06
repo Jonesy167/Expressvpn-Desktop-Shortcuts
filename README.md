@@ -5,7 +5,7 @@ Adds desktop shortcuts to connect, disconnect and check status of Expressvpn on 
 
 #the actual commands it runs are:
   
-  -expressvpn connect smart # uses expressvpn's smart conenct so should connect to server with lowest latency
+  -expressvpn connect smart # uses expressvpn's smart connect so should connect to server with lowest latency
   
   -expressvpn disconnect
   
